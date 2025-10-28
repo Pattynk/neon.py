@@ -1,11 +1,11 @@
 Juego neon.py <br>
-Clase: graficación
-28 de octubre del 2025
-Irma Patricia Rivera León 
-Sistemas Computacionales 5SS
+Clase: graficación<br>
+28 de octubre del 2025<br>
+Irma Patricia Rivera León <br>
+Sistemas Computacionales 5SS<br>
 Este documento recopila la información solicitada y da solución al ejercicio.
 
-
+<br><br><br><br>
 Ejercicio: 
 
 Se manda el código de un juego de plataformas en donde los objetos en pantalla son rectángulos
@@ -21,7 +21,7 @@ quien es un cuadrito que tiene mecánicas de movimiento lateral y salto con even
 _______________________________________________________________________________
 # Al final del documento se anexa el código base por si usted gusta intentarlo.
 _______________________________________________________________________________
-
+<br><br>
 Reto:
 
 Dentro del código no vienen los rectángulos que servirán para dar "paredes" al juego,
@@ -32,7 +32,7 @@ _______________________________________________________________________________
 # Dentro del otro archivo llamado neon.py, viene todo el juego ya terminado.
 _______________________________________________________________________________
 
-
+<br><br>
 Solución: 
 
 En primer lugar, se debe de tomar en cuenta el tamaño de la pantalla que este juego
@@ -57,12 +57,12 @@ como una serie de 4 valores de la siguiente manera (0,0,0,0).
     pygame.Rect(890, 0, 10, 460), 
 
 
-
+<br><br>
 ANEXOS:
 ____________________________________________
 # Se anexa el código inicial de la práctica
 ____________________________________________
-
+<br><br><br><br><br>
 import pygame
 import sys
 
