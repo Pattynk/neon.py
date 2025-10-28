@@ -1,4 +1,4 @@
-Juego neon.py 
+Juego neon.py <br>
 Clase: graficación
 28 de octubre del 2025
 Irma Patricia Rivera León 
